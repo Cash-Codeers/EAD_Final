@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ComputersApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="User-Service" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.ead.computers.ComputersApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
